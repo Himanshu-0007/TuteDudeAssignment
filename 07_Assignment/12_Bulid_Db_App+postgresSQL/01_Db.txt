@@ -1,0 +1,14 @@
+using sql shell (Psql)
+
+commands:
+1) To find out list of databse : \l
+
+2) To create databse : (create database demodb;)
+
+3) enter to database directory (\c demodb;)
+
+4) Delete database (drop database demodb;)
+
+5) Insert Into students(name,number,age) values('mohan',12,12)
+
+6) truncate table students // clear all data of table
